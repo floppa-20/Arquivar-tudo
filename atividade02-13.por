@@ -11,7 +11,8 @@ programa
           se(numero>100.0){
 		numerosomado=numero+somador
 		escreva("Cálculo resultou em: ", numerosomado)
-          }
+          }senao {
+                escreva("\nNúmero é menor ou igual a 100!")
 	}
 }
 /* $$$ Portugol Studio $$$ 
