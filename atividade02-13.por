@@ -3,12 +3,12 @@ programa
 	
 	funcao inicio()
 	{
-		const inteiro somador=150
-		inteiro numero, numerosomado
+		const real somador=150
+		real numero, numerosomado
 		
 		escreva("Digite o número: ")
 		leia(numero)
-          se(numero>100){
+          se(numero>100.0){
 		numerosomado=numero+somador
 		escreva("Cálculo resultou em: ", numerosomado)
           }
