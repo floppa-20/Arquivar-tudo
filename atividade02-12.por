@@ -7,9 +7,6 @@ programa
 		
 		escreva("Digite sua idade: ")
 		leia(idade)
-
-		se(idade>100) {
-			escreva("\nErro: Idade não real!")
 		} senao se(idade>=18) {
 			escreva("\nMaior de idade!")
 		} senao {
