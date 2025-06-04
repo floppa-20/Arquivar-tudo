@@ -15,7 +15,8 @@ programa
 		}se (n>0) {
 			escreva("\nO número é positivo")
 		}
-	}    
+	}
+    
 }
 /* $$$ Portugol Studio $$$ 
  * 
